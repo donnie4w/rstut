@@ -1,0 +1,2 @@
+# rstut
+rust tutorial
