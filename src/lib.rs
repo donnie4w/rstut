@@ -5,3 +5,4 @@ mod atomic3;
 pub mod AtomicString;
 mod smarttest;
 mod closure;
+mod generic;
